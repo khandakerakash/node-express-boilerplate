@@ -1,0 +1,27 @@
+{
+  "name": "admin-chat-app",
+  "version": "1.0.0",
+  "description": "This is an admin panel of a chat application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khandaker Akash",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta2",
+    "consolidate": "^0.16.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "express-flash": "0.0.2",
+    "express-flash-2": "^1.0.1",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.17.1",
+    "express-validator": "^6.9.2",
+    "jquery": "^3.5.1",
+    "mongoose": "^5.11.17",
+    "nunjucks": "^3.2.3",
+    "uniqid": "^5.2.0"
+  }
+}
